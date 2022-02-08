@@ -1,0 +1,27 @@
+{
+    "_": {
+        "postman_id": "9c982738-901f-4ba1-9cf6-e51606aa0fc5"
+    },
+    "item": [
+        {
+            "id": "8802a1de-6843-443a-a965-e4c16ee05043",
+            "name": "Names",
+            "request": {
+                "url": {
+                    "query": [],
+                    "variable": []
+                },
+                "method": "GET"
+            },
+            "response": [],
+            "event": []
+        }
+    ],
+    "event": [],
+    "variable": [],
+    "info": {
+        "_postman_id": "9c982738-901f-4ba1-9cf6-e51606aa0fc5",
+        "name": "Name-Friends",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    }
+}
